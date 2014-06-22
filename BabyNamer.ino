@@ -36,7 +36,7 @@ void setup() {
 }
 
 void loop() {
-  
+  /*Need to add Virginia Creeper, Tawny Frogmouth, Blewit, Compressed Flapwort, Screaming Hairyarmadillo, Cheese Weed, Dragon Hunter, Hell Bender, Bat Falcon, Centauri, Mother OfThousands*/
   FLASH_STRING_ARRAY(awesomeNames, PSTR("Moon Unit"),PSTR("Dweezel G"),
       PSTR("Gloves Ofmetal"), PSTR("Airwrecka Brie"), PSTR("Barenuckle GorillaPunch"), PSTR("L'monjello powder"), PSTR("Mustafa Wolfgang"), PSTR("Wolfgang Maximus "),  PSTR("Yngwie Malmsteen"), PSTR("Roscoe Toboscoe"), PSTR("Arnold Schwarzenegger"),
       PSTR("Neia Bobilla"), PSTR("Skunk Ahdjunk"), PSTR("T'varisuness King"), PSTR("Tyroil Smoochie-Wallace"), PSTR("D'Squarius Green"), PSTR("Jackmerius Tacktheritrix"), PSTR("Shaft Undertaker"), PSTR("Davoin Shower-Handel"), 
